@@ -1,4 +1,4 @@
-@Smoke @Regression
+@Sanity
 Feature: Application Security Functions
 
   @US_3
